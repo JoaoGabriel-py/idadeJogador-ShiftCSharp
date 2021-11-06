@@ -1,0 +1,14 @@
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.exe
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.deps.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.runtimeconfig.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.runtimeconfig.dev.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\bin\Debug\netcoreapp3.1\idadeJogador.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.csproj.AssemblyReference.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.AssemblyInfoInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.AssemblyInfo.cs
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.csproj.CoreCompileInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\idadeJogador\idadeJogador\obj\Debug\netcoreapp3.1\idadeJogador.genruntimeconfig.cache
